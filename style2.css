@@ -1,0 +1,29 @@
+header {
+  border-bottom:1px solid gray;
+  padding:20px;
+}
+nav {
+  border-right:1px solid gray;
+  width:400px;
+  height:1500px;
+  float:left;
+  padding:10px;
+}
+nav ol{
+  float:left;
+  padding: 20px;
+}
+body {
+  background-color:lightyellow; font-size:13px; font-weight:normal;
+  padding:10px;
+}
+article{
+  float:left;
+  padding:20px;
+}
+article li{
+  font-weight:bold;
+}
+ul {
+  text-decoration-color:blue;
+}
